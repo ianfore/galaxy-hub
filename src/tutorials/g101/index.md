@@ -430,7 +430,7 @@ Once you do this the representation of the workflow in the bottom right corner o
 
 ### Renaming inputs
 
-Right now inputs are named after datasets that were in history from which this workflow was created. Let's give them more genetic names, so the workflow can be reused for other types of genome annotation data:
+Right now inputs are named after datasets that were in history from which this workflow was created. Let's give them more generic names, so the workflow can be reused for other types of genome annotation data:
 
 |        |
 |--------|
@@ -442,7 +442,7 @@ Here we will simply rename input called "Exons" into "Feature 1" and the one cal
 |        |
 |--------|
 |![Naming inputs 2](/src/tutorials/g101/namingInputs2.png)|
-|<small>**Figure 37**. Giving inputs genetic names.</small>|
+|<small>**Figure 37**. Giving inputs generic names.</small>|
 
 ### Renaming outputs
 
